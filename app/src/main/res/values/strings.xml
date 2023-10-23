@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleCourse2</string>
+    <string name="palceholder_search">Search</string>
+    <string name="yoga_title">Doing something</string>
+    <string name="card_title">Favorite cardName</string>
+    <string name="align_your_body">Align your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+
+</resources>
